@@ -1,5 +1,7 @@
 # Knowledge-test-OMS
 
+-Abrir a página de branches do repositório e acessar a branch entitulada 'master' para abrir os exercícios; 
+
 *Teste do arquivo Exe1.c:
 
 Logo que executar o programa, serão apresentados os números de 1 a 100 um em cada linha, exceto as linhas que têm números múltiplos de 3, 5 ou 3 e 5 ao mesmo tempo.
